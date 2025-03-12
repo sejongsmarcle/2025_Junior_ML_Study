@@ -1,7 +1,6 @@
 # 2025_Junior_ML_Study
 2025 Spring Junior Machine Learning Study
 
-# 2025_Junior_Machine_Learning_Study
 
 ## 스터디 목표
 - 3학년 전공필수 수업 **<기계학습>** 미리 공부해보기
