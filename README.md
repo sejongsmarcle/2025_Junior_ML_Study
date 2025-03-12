@@ -22,7 +22,7 @@
 
 ### 과제
 > 본교재에 첨부된 코드 내용 정리<br>
-> 양식 참고: [대시은의 흔적](https://teal-scabiosa-2df.notion.site/4-1b4da38a33e1809bad08f88e7b0fe278?pvs=4)
+> 양식 참고: [대시은의 흔적](https://delightful-pheasant-bd0.notion.site/2-17ab95ee0b3880479f7aefe0e9786652)
 ```python 
 ✅주어진 코드를 분석하고 그 내용을 작성하여 제출
 ✅코랩에서 실행한 화면 스크린샷을 포함해야 함
